@@ -39,9 +39,4 @@ To conclude, the analysis shows, based on the dataset, that if you’re a woman 
  These conclusions are not without problems; for example,  All the potential predictors that impact risk of CVD are not listed in the dataset. Because the country of origin for the data was not listed, it was hard to compare values. The average age of the participants in the data was 53 (years) 11 (days), and it was collected in a clinical setting. People who are hospitalized tend to have more serious disease, older people tend to experience more frequent hospitalizations, so the results are not that generalizable, only for this specific group. Tallness taken to be greater than 2 standard deviations means that only about 2.1% of height the data is represented, so it is rare. And finally, BMI is not a good estimate of body composition, so it is hard to draw meaningful conclusions with this metric. It assumes that a large volume of weight for an individual is automatically attributed to body fat instead of musculature. 
 
 
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
 
